@@ -41,21 +41,21 @@ function App() {
                 </ul>
 
                 <button type="button"
-                        className="mt-5 text-left focus:outline-none text-white bg-orange-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-yellow-900">Launch
+                        className="mt-5 text-left focus:outline-none text-white bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-orange-900">Launch
                     ReadOnly Stack
                 </button>
                 <br/>
                 <code className="text-orange-400">arn:aws:iam::XXXXXXXXXX:role/SigtermMonitoringReadOnly</code>
                 <br/>
                 <button type="button"
-                        className="mt-5 text-left focus:outline-none text-white bg-orange-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-yellow-900">Launch
+                        className="mt-5 text-left focus:outline-none text-white bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-orange-900">Launch
                     Launch ReadOnly Without Data Stack
                 </button>
                 <br/>
                 <code className="text-orange-400">arn:aws:iam::XXXXXXXXXX:role/SigtermMonitoringReadOnlyWithoutData</code>
                 <br/>
                 <button type="button"
-                        className="mt-5 text-left focus:outline-none text-white bg-orange-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-yellow-900">Launch
+                        className="mt-5 text-left focus:outline-none text-white bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-orange-900">Launch
                     Launch Admin Stack
                 </button>
                 <br/>
